@@ -16,3 +16,5 @@ jpeg
 jpegs
 ref
 chiba
+resize
+filename
